@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>SOI_GRcu_Mid</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Reality Smasher"/>
+        <card number="4" price="0" name="Thought-Knot Seer"/>
+        <card number="4" price="0" name="Oath of Nissa"/>
+        <card number="4" price="0" name="Spatial Contortion"/>
+        <card number="4" price="0" name="Vessel of Volatility"/>
+        <card number="4" price="0" name="Sylvan Advocate"/>
+        <card number="4" price="0" name="Shivan Reef"/>
+        <card number="4" price="0" name="Yavimaya Coast"/>
+        <card number="4" price="0" name="Game Trail"/>
+        <card number="4" price="0" name="Cinder Glade"/>
+        <card number="3" price="0" name="Forest"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Tireless Tracker"/>
+        <card number="2" price="0" name="Arlinn Kord"/>
+        <card number="2" price="0" name="Sarkhan Unbroken"/>
+        <card number="2" price="0" name="Chandra, Flamecaller"/>
+        <card number="2" price="0" name="Sea Gate Wreckage"/>
+        <card number="3" price="0" name="Eldrazi Obligator"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Warping Wail"/>
+        <card number="2" price="0" name="Plummet"/>
+        <card number="3" price="0" name="Radiant Flames"/>
+        <card number="2" price="0" name="Smash to Smithereens"/>
+        <card number="1" price="0" name="Gaea's Revenge"/>
+        <card number="2" price="0" name="Uncaged Fury"/>
+        <card number="2" price="0" name="Exquisite Firecraft"/>
+        <card number="1" price="0" name="Lambholt Pacifist"/>
+    </zone>
+</cockatrice_deck>
