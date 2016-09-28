@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>KLD_RW_Vehicles</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Veteran Motorist"/>
+        <card number="4" price="0" name="Toolcraft Exemplar"/>
+        <card number="3" price="0" name="Depala, Pilot Exemplar"/>
+        <card number="2" price="0" name="Skysovereign, Consul Flagship"/>
+        <card number="4" price="0" name="Smuggler's Copter"/>
+        <card number="3" price="0" name="Lupine Prototype"/>
+        <card number="4" price="0" name="Incendiary Flow"/>
+        <card number="2" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="2" price="0" name="Cultivator's Caravan"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="4" price="0" name="Needle Spires"/>
+        <card number="4" price="0" name="Inspiring Vantage"/>
+        <card number="4" price="0" name="Mountain"/>
+        <card number="5" price="0" name="Plains"/>
+        <card number="1" price="0" name="Nahiri, the Harbinger"/>
+        <card number="4" price="0" name="Fiery Temper"/>
+        <card number="3" price="0" name="Inventor's Apprentice"/>
+        <card number="2" price="0" name="Declaration in Stone"/>
+        <card number="4" price="0" name="Evolving Wilds"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Stasis Snare"/>
+        <card number="1" price="0" name="Quarantine Field"/>
+        <card number="1" price="0" name="Nahiri, the Harbinger"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="1" price="0" name="Combustible Gearhulk"/>
+        <card number="1" price="0" name="Cataclysmic Gearhulk"/>
+        <card number="2" price="0" name="Selfless Spirit"/>
+        <card number="2" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Archangel Avacyn"/>
+        <card number="2" price="0" name="Collective Effort"/>
+    </zone>
+</cockatrice_deck>

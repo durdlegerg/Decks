@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>KLD_Aetherflux_Storm</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="1" price="0" name="Inventors' Fair"/>
+        <card number="4" price="0" name="Spirebluff Canal"/>
+        <card number="4" price="0" name="Island"/>
+        <card number="3" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Wandering Fumarole"/>
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="4" price="0" name="Glint-Nest Crane"/>
+        <card number="4" price="0" name="Herald of Kozilek"/>
+        <card number="2" price="0" name="Saheeli Rai"/>
+        <card number="4" price="0" name="Metalspinner's Puzzleknot"/>
+        <card number="4" price="0" name="Prophetic Prism"/>
+        <card number="4" price="0" name="Aetherflux Reservoir"/>
+        <card number="4" price="0" name="Paradoxical Outcome"/>
+        <card number="4" price="0" name="Cultivator's Caravan"/>
+        <card number="2" price="0" name="Hedron Archive"/>
+        <card number="2" price="0" name="Foundry Inspector"/>
+        <card number="4" price="0" name="Metalwork Colossus"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Fateful Showdown"/>
+        <card number="1" price="0" name="Chandra, Torch of Defiance"/>
+        <card number="3" price="0" name="Filigree Familiar"/>
+        <card number="4" price="0" name="Fireforger's Puzzleknot"/>
+        <card number="3" price="0" name="Molten Nursery"/>
+    </zone>
+</cockatrice_deck>
