@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>AER_GW_Humans</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Lambholt Pacifist"/>
+        <card number="4" price="0" name="Thraben Inspector"/>
+        <card number="4" price="0" name="Town Gossipmonger"/>
+        <card number="4" price="0" name="Thalia's Lieutenant"/>
+        <card number="4" price="0" name="Metallic Mimic"/>
+        <card number="2" price="0" name="Hamlet Captain"/>
+        <card number="3" price="0" name="Renegade Rallier"/>
+        <card number="2" price="0" name="Thalia, Heretic Cathar"/>
+        <card number="1" price="0" name="Heron's Grace Champion"/>
+        <card number="2" price="0" name="Always Watching"/>
+        <card number="2" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="2" price="0" name="Selfless Spirit"/>
+        <card number="3" price="0" name="Declaration in Stone"/>
+        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="4" price="0" name="Canopy Vista"/>
+        <card number="4" price="0" name="Fortified Village"/>
+        <card number="6" price="0" name="Plains"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="1" price="0" name="Westvale Abbey"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Blossoming Defense"/>
+        <card number="2" price="0" name="Gideon, Ally of Zendikar"/>
+        <card number="2" price="0" name="Tireless Tracker"/>
+        <card number="2" price="0" name="Fragmentize"/>
+        <card number="2" price="0" name="Stasis Snare"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Selfless Spirit"/>
+        <card number="2" price="0" name="Heroic Intervention"/>
+    </zone>
+</cockatrice_deck>
